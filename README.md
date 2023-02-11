@@ -2,4 +2,6 @@
 
 A nice Time Series tool, simply upload your data and you'll get your forecasts. No coding required! Just run it and open the website!
 
-Try it here on [Replit](https://replit.com/@rosariomoscato/classificationwizard)
+To OPEN **Time Series Wizard** click here: 
+
+[![Streamlit APP](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rosariomoscato-time-series-wizard.streamlit.app/)
