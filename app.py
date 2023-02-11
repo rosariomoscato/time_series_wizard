@@ -80,7 +80,7 @@ st.sidebar.title("Create your Time Series")
 
 info = st.sidebar.button("info")
 if info:
-    st.sidebar.write("Classification Wizard v0.8")
+    st.sidebar.write("Time Series Wizard v0.8")
     # Donazioni
     st.sidebar.markdown('[Donate here](https://paypal.me/rosmoscato)')
 
