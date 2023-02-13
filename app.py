@@ -62,7 +62,7 @@ col10, col20, col30 = st.columns([1,3,1])
 with col10:
    st.header("")
 with col20:
-   st.image(load_image("/streamlit_prophet/references/logo.png"), use_column_width="auto")
+   st.image(load_image("./streamlit_prophet/references/logo.png"), use_column_width="auto")
 with col30:
    st.header("")
 
